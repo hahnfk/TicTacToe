@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{613CC89A-3C14-4E8E-B711-89B88BABB17E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameState.cs">
+    <Files>
+      <File FileName="App.xaml" />
+      <File FileName="MainWindow.xaml" />
+      <File FileName="MainWindow.xaml.cs" />
+      <File FileName="GameResult.cs" />
+      <File FileName="GameState.cs" Line="1" Column="3" />
+      <File FileName="WinInfo.cs" />
+      <File FileName="Player.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TicTacToe" expanded="True">
+            <Node name="TicTacToe" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
